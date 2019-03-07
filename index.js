@@ -1,1 +1,1 @@
-var recipies = new;
+var recipies = new Object;
