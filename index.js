@@ -1,1 +1,1 @@
-let recipies = Object.new;
+let recipies = Object.new();
